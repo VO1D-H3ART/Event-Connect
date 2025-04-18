@@ -35,3 +35,6 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+------------------------------------------------------------------
+
+This is an amazing template I used and I will change it to fit my needs. There is also a licience file if you are interested.
